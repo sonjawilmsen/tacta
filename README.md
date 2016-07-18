@@ -1,6 +1,5 @@
 # tacta
-Simpel contact manager
 
-Simple contact manager to learn the basics of Ruby.
+Simpel contact 
 
-Learned how to use git, github, ruby, Sinatra and terminal (irb).
+This is a simple contact manager which I made during the first week of the Codaisseur program. With this I built my first complete Ruby program. I also learned how to use Sinatra while making this project. 
